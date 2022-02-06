@@ -114,9 +114,9 @@ footer {
   border: 5px solid #747c92;
 }
 
-.image-container img:first-of-type {
-  vertical-align: bottom;
-}
+.bears .oso1{border-color: black;}
+.bears .oso2{border-color: chartreuse;}
+.bears .oso3{border-color: crimson;}
 
 .tigers {
   background-color: #0b3c49;
