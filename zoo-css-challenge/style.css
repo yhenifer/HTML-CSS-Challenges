@@ -125,13 +125,16 @@ footer {
 }
 
 .giraffe {
-  background-color: #465775;
-  color: #56e39f;
+  background-color: #483c46;
+  color: #BBEE62;
 }
 
 .giraffe h2 {
   color: #ef6f6c;
 }
+
+.parrafoJ {font-size: 20pt;}
+.giraffe h3 {color: #f4743b;}
 
 .card {
   display: inline-block;
