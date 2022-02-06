@@ -1,5 +1,6 @@
 * {
   font-family: sans-serif;
+  line-height: 1.875rem;
 }
 
 header {
@@ -31,6 +32,10 @@ section {
 
 img {
   border: 5px solid #8075ff;
+}
+
+#logo{
+  border: none;
 }
 
 h1,
@@ -75,7 +80,8 @@ footer {
   justify-content: space-between;
 }
 
-.introduction {
+.introduction {background-color: #fff;
+
 }
 
 #badge {
